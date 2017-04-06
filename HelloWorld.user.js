@@ -8,4 +8,4 @@
 // @downloadURL  https://github.com/uBlock-user/uMatrix-Hosts-List/raw/master/HelloWorld.user.js
 // ==/UserScript==
 
-alert("Hello World");
+alert("Hello World and Hi");
