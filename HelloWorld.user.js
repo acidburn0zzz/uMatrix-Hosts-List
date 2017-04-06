@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Hello-World
-// @version      2.21
+// @version      2.25
 // @author       Hello-World
 // @include      google.com
 // @grant        none
