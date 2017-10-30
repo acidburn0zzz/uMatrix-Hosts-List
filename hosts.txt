@@ -24280,3 +24280,4 @@
 0.0.0.0 report-uri.com
 0.0.0.0 adpass.co.uk
 0.0.0.0 support-ip.com
+0.0.0.0 wp.pl
