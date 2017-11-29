@@ -24284,4 +24284,4 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 ad.kisscartoon.es
-0.0.0.0 typekit.com
+0.0.0.0 typekit.net
