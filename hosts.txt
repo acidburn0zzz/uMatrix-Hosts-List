@@ -24285,3 +24285,5 @@
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 ad.kisscartoon.es
 0.0.0.0 typekit.net
+0.0.0.0 blockergame.com
+0.0.0.0 blockersurvive.com
