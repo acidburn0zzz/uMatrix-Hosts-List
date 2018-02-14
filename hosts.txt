@@ -24256,7 +24256,7 @@
 0.0.0.0 vibe.com
 0.0.0.0 weather.com
 0.0.0.0 wowhead.com
-0.0.0.0legacy.com
+0.0.0.0 legacy.com
 0.0.0.0 citypaper.com
 0.0.0.0 csgoutpost.com
 0.0.0.0 ctnow.com
@@ -24291,3 +24291,5 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 qjp.gorillavid.in
 0.0.0.0 events.reddit.com
+0.0.0.0 analytics.reddit.com
+0.0.0.0 adservice.google.co.in
