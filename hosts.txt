@@ -2,7 +2,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: January 28 2018
+# Date: March 30, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24291,3 +24291,10 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 qjp.gorillavid.in
 0.0.0.0 events.reddit.com
+0.0.0.0 cxo.name
+0.0.0.0 rt.chip.de
+0.0.0.0 bf-tools.net
+0.0.0.0 curloc.com
+0.0.0.0 svonm.com
+0.0.0.0 bf-ad.net
+0.0.0.0 vgwort.de
