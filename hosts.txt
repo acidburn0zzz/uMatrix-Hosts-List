@@ -2,7 +2,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: April 18, 2018
+# Date: April 28, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24303,3 +24303,4 @@
 0.0.0.0 nicequest.com
 0.0.0.0 ads.dwatchseries.to
 0.0.0.0 ark.hanime.tv
+0.0.0.0 apis.google.com
