@@ -24304,3 +24304,5 @@
 0.0.0.0 ads.dwatchseries.to
 0.0.0.0 ark.hanime.tv
 0.0.0.0 apis.google.com
+0.0.0.0 onesignal.com
+0.0.0.0 alexametrics.com
