@@ -2,7 +2,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: April 28, 2018
+# Date: May 5, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -10,7 +10,7 @@
 # ===============================================================
 
 0.0.0.0	csi.gstatic.com
-0.0.0.0	googleads.g.doubleclick.net
+0.0.0.0	doubleclick.net
 0.0.0.0	nl.sitestat.com
 0.0.0.0	sales.liveperson.net
 0.0.0.0	stat3.cybermonitor.com
@@ -24306,3 +24306,5 @@
 0.0.0.0 apis.google.com
 0.0.0.0 onesignal.com
 0.0.0.0 alexametrics.com
+0.0.0.0 tt1.openload.co
+0.0.0.0 t1.streamango.com
