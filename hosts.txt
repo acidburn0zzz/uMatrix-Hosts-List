@@ -24310,3 +24310,5 @@
 0.0.0.0 t1.streamango.com
 0.0.0.0 githubapp.com
 0.0.0.0 disqus.com
+0.0.0.0 lightboxcdn.com
+0.0.0.0 ambra.com
