@@ -2,7 +2,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: May 5, 2018
+# Date: May 19, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24313,3 +24313,6 @@
 0.0.0.0 lightboxcdn.com
 0.0.0.0 ambra.com
 0.0.0.0 brand-ad-innovations.s3.amazonaws.com
+0.0.0.0 adclixx.net
+0.0.0.0 adnetasia.com
+
