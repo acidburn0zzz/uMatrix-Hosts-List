@@ -12,6 +12,7 @@
 #
 # ===============================================================
 
+0.0.0.0 bannertrack.net
 0.0.0.0	csi.gstatic.com
 0.0.0.0	doubleclick.net
 0.0.0.0	nl.sitestat.com
