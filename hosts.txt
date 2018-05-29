@@ -5,7 +5,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: May 19, 2018
+# Date: May 29, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24323,3 +24323,6 @@
 0.0.0.0 wibbitz.com
 0.0.0.0 evolveplatform.net
 0.0.0.0 evolvemediallc.com
+0.0.0.0 but.to
+0.0.0.0 vdosupreme.com
+0.0.0.0 d10lumateci472.cloudfront.net
