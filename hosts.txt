@@ -24325,3 +24325,4 @@
 0.0.0.0 but.to
 0.0.0.0 vdosupreme.com
 0.0.0.0 d10lumateci472.cloudfront.net
+0.0.0.0 zdstatic.speedtest.net
