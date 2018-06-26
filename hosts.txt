@@ -24333,3 +24333,5 @@
 0.0.0.0 tweowhvrim.review
 0.0.0.0 adroll.com
 0.0.0.0 ezoic.net
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
