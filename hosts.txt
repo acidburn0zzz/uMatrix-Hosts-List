@@ -5,7 +5,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: June 30, 2018
+# Date: July 8, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24338,3 +24338,5 @@
 0.0.0.0 bidgear.com
 0.0.0.0 play-asia.com
 0.0.0.0 sharethis.com
+0.0.0.0 chatango.com
+0.0.0.0 connect.facebook.net
