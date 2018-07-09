@@ -24340,3 +24340,5 @@
 0.0.0.0 sharethis.com
 0.0.0.0 chatango.com
 0.0.0.0 connect.facebook.net
+0.0.0.0 error.facebook.com
+0.0.0.0 staticxx.facebook.com
