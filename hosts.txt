@@ -24342,3 +24342,4 @@
 0.0.0.0 csp.yahoo.com
 0.0.0.0 aj1198.online
 0.0.0.0 an.facebook.com
+0.0.0.0 buymeacoffee.com
