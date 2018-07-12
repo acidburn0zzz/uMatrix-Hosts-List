@@ -1,7 +1,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: July 11, 2018
+# Date: July 12, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24341,3 +24341,4 @@
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 csp.yahoo.com
 0.0.0.0 aj1198.online
+0.0.0.0 an.facebook.com
