@@ -24346,3 +24346,5 @@
 0.0.0.0 a.quora.com
 0.0.0.0 s.yimg.com
 0.0.0.0 vntsm.com
+0.0.0.0 followistic.com
+0.0.0.0 anyclip.com
