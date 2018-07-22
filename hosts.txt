@@ -1,7 +1,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github.
 #
-# Date: July 19, 2018
+# Date: July 22, 2018
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/uBlock-user/uMatrix-Host-List/master/hosts.txt
 # Project home page: https://github.com/uBlock-user/uMatrix-Host-List/
@@ -24349,3 +24349,4 @@
 0.0.0.0 followistic.com
 0.0.0.0 anyclip.com
 0.0.0.0 2mdnsys.com
+0.0.0.0 adlightning.com
