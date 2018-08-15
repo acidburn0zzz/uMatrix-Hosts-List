@@ -24351,3 +24351,5 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 services.mozilla.com
+0.0.0.0 report-uri.io
