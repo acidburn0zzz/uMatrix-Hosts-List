@@ -24349,3 +24349,4 @@
 0.0.0.0 roosterfirework.com
 0.0.0.0 summerhamster.com
 0.0.0.0 mms.cnn.com
+0.0.0.0 browser.pipe.aria.microsoft.com
