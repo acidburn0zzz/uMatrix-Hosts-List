@@ -24353,3 +24353,4 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 services.mozilla.com
 0.0.0.0 report-uri.io
+0.0.0.0 api.github.com
