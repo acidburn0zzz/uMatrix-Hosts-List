@@ -24359,3 +24359,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 kvideo.io
 0.0.0.0 cse.google.com
+0.0.0.0 api.nytimes.com
+0.0.0.0 samizdat-graphql.nytimes.com
+0.0.0.0 meter-a.nytimes.com
+0.0.0.0 a.nytimes.com
