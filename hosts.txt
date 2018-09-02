@@ -24363,3 +24363,5 @@
 0.0.0.0 samizdat-graphql.nytimes.com
 0.0.0.0 meter-a.nytimes.com
 0.0.0.0 a.nytimes.com
+0.0.0.0 connect.facebook.com
+0.0.0.0 nice264.com
