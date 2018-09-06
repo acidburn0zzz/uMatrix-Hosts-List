@@ -24336,7 +24336,6 @@
 0.0.0.0 an.facebook.com
 0.0.0.0 buymeacoffee.com
 0.0.0.0 a.quora.com
-0.0.0.0 s.yimg.com
 0.0.0.0 vntsm.com
 0.0.0.0 followistic.com
 0.0.0.0 anyclip.com
