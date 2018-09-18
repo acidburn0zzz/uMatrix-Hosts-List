@@ -24368,3 +24368,7 @@
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 arcpublishing.com
 0.0.0.0 litix.io
+0.0.0.0 nile.works
+0.0.0.0 js.washingtonpost.com
+0.0.0.0 d1d3jupgwm7m5r.cloudfront.net
+0.0.0.0 wpdigital.net
