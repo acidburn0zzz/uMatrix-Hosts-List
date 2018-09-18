@@ -1,7 +1,7 @@
 ! Author: uBlock-user
 ! Title: uMatrix Hosts List
 
-0.0.0.0 bannertrack.net
+0.0.0.0       bannertrack.net
 0.0.0.0	csi.gstatic.com
 0.0.0.0	doubleclick.net
 0.0.0.0	nl.sitestat.com
@@ -24366,3 +24366,7 @@
 0.0.0.0 nice264.com
 0.0.0.0 oath.com
 0.0.0.0 adshark.site
+0.0.0.0 pwapi.washingtonpost.com
+0.0.0.0 smetrics.washingtonpost.com
+0.0.0.0 arcpublishing.com
+0.0.0.0 litix.io
