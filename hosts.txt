@@ -24372,3 +24372,7 @@
 0.0.0.0 js.washingtonpost.com
 0.0.0.0 d1d3jupgwm7m5r.cloudfront.net
 0.0.0.0 wpdigital.net
+0.0.0.0 propellerclick.com
+0.0.0.0 bdtmbiezv.com
+0.0.0.0 pushance.com
+0.0.0.0 tqomajswbm.com
