@@ -24376,3 +24376,4 @@
 0.0.0.0 bdtmbiezv.com
 0.0.0.0 pushance.com
 0.0.0.0 tqomajswbm.com
+0.0.0.0 adglare.net
