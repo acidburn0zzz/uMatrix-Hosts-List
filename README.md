@@ -4,6 +4,10 @@ A perpetuated list of all blacklisted host-names intended to block ads, tracking
 
 Direct link - https://raw.githubusercontent.com/uBlock-user/uMatrix-Hosts-List/master/hosts.txt
 
+# Disclaimer 
+
+As this is a personal HOSTS-list of mine, there maybe some domains that you disagree with and if you do, feel free to click on the `Fork` button and make your own list.
+
 
 
 
