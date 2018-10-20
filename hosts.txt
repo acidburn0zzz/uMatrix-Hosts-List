@@ -24313,7 +24313,6 @@
 0.0.0.0 vdosupreme.com
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 zdstatic.speedtest.net
-0.0.0.0 evidon.com
 0.0.0.0 fluidplayer.com
 0.0.0.0 dgaytd37.com
 0.0.0.0 tweowhvrim.review
