@@ -24381,3 +24381,4 @@
 0.0.0.0 plus.google.com
 0.0.0.0 clcknads.pro
 0.0.0.0 jumpshot.com
+0.0.0.0 clickaine.com
