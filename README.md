@@ -6,7 +6,7 @@ Direct link - https://raw.githubusercontent.com/uBlock-user/uMatrix-Hosts-List/m
 
 # Disclaimer 
 
-As this is a personal HOSTS-list of mine, there maybe some domains that you disagree with and if you do, feel free to click on the `Fork` button and make your own list.
+As this is a **personal** HOSTS-list of mine, there maybe some domains that you disagree with and if you do, feel free to click on the **fork** button and make your own list.
 
 
 
