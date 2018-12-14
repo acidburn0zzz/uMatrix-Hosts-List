@@ -24236,7 +24236,6 @@
 0.0.0.0 nicequest.com
 0.0.0.0 ads.swatchseries.to
 0.0.0.0 ww2.swatchseries.to
-0.0.0.0 ark.hanime.tv
 0.0.0.0 onesignal.com
 0.0.0.0 alexametrics.com
 0.0.0.0 tt1.openload.co
