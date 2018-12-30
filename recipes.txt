@@ -10,7 +10,7 @@
 ! https://github.com/uBlockOrigin/uAssets/tree/master/recipes
 
 Youtube Embeds
-    * youtube.com
+        * youtube.com
 		_ googlevideo.com xhr
         	_ youtube.com css
         	_ youtube.com frame
