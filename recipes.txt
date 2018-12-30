@@ -2,11 +2,12 @@
 ! Title: Sierra Rulesets
 ! Maintainer: SierraKomodo
 
-Youtube Embeds
-        * youtube.com
-		_ googlevideo.com xhr
-        	_ youtube.com css
-        	_ youtube.com frame
-        	_ youtube.com script
-        	_ youtube.com xhr
-        	_ ytimg.com image
+ Youtube Embeds
+    * youtube.com
+        _ googlevideo.com xhr
+        _ youtube.com css
+        _ youtube.com frame
+        _ youtube.com script
+        _ youtube.com xhr
+        _ ytimg.com image		
+		
