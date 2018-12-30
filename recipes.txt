@@ -17,13 +17,3 @@ Youtube Embeds
         	_ youtube.com script
         	_ youtube.com xhr
         	_ ytimg.com image
-
-Youtube as 3rd-party
-	* youtube.com
-		_ youtube.com *
-		_ youtube.com script
-		_ youtube.com frame
-		_ googlevideo.com *
-		_ googlevideo.com xhr
-		_ ytimg.com *
-		_ ytimg.com script
