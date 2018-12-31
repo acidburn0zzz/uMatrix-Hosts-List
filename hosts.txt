@@ -24327,4 +24327,3 @@
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 127.0.0.1
 0.0.0.0 localhost
-0.0.0.0 example.com
