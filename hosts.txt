@@ -24329,3 +24329,5 @@
 0.0.0.0 localhost
 0.0.0.0 counter.adguard.com
 0.0.0.0 matomo.adguard.com
+0.0.0.0 passport.mobilenations.com
+0.0.0.0 pushwoosh.com
