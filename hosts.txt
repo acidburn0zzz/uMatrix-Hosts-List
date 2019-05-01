@@ -24331,5 +24331,4 @@
 0.0.0.0 matomo.adguard.com
 0.0.0.0 passport.mobilenations.com
 0.0.0.0 pushwoosh.com
-0.0.0.0 discordapp.com
 0.0.0.0 arda0hylt58g4wg0.pro
