@@ -24333,3 +24333,5 @@
 0.0.0.0 pushwoosh.com
 0.0.0.0 arda0hylt58g4wg0.pro
 0.0.0.0 stats.privacytools.io
+0.0.0.0 gateway.reddit.com
+0.0.0.0 gql.reddit.com
