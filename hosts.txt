@@ -24338,3 +24338,4 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ahost.bulbagarden.net
+0.0.0.0 spot.im
